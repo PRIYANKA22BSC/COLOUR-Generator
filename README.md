@@ -1,5 +1,5 @@
 # Random Colour-Generator
-Link-
+Link- https://priyanka22bsc.github.io/COLOUR-Generator/
 
 ## About
 
